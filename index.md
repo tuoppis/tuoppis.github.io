@@ -3,8 +3,11 @@
 
 ### React
 
-- [Hangman](https://tuoppis.github.io/hangman)
-- [ReactCalculator](https://tuoppis.github.io/ReactCalculator)
+#### [Hangman](hangman/index.html)
+The familiar hangman game featuring large dictionary and difficulty setting.
+
+#### [ReactCalculator](ReactCalculator/index.html)
+Simple 'pocket' calculator.
 
 ### C#/Xamarin
 
