@@ -4,7 +4,7 @@
 ### React
 
 - [Hangman](https://tuoppis.github.io/hangman)
-- [ReactCalculator](https:://tuoppis.github.io/ReactCalculator)
+- [ReactCalculator](https://tuoppis.github.io/ReactCalculator)
 
 ### C#/Xamarin
 
