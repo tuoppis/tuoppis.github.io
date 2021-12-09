@@ -3,8 +3,8 @@
 
 ### React
 
-[Hangman](/hangman)
-[ReactCalculator](/ReactCalculator)
+[Hangman](https://tuoppis.github.io/hangman)
+[ReactCalculator](https:://tuoppis.github.io/ReactCalculator)
 
 ### C#/Xamarin
 
