@@ -10,7 +10,7 @@ The familiar hangman game featuring large dictionary and difficulty setting.
 Simple 'pocket' calculator.
 
 ### [Wordle](wordle/index.html)
-Clone of popular wordle game.
+Clone of the popular wordle game.
 
 ### C#/Xamarin
 
