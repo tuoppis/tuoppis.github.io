@@ -9,6 +9,9 @@ The familiar hangman game featuring large dictionary and difficulty setting.
 #### [ReactCalculator](ReactCalculator/index.html)
 Simple 'pocket' calculator.
 
+#### [ReactSwapi](ReactSwapi/index.html)
+Small api test with react.
+
 #### [Wordle](wordle/index.html)
 Clone of the popular wordle game.
 
