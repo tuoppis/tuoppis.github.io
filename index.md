@@ -30,7 +30,7 @@ Script file for linux. Determines the total size of files matching given pattern
 
 ### Qt/QML
 
-### [CrossSolver](https://github.com/tuoppis/CrossSolver)
+#### [CrossSolver](https://github.com/tuoppis/CrossSolver)
 Older program that solves n x m crossword containing given list of words. It can also show anagrams of string of letters.
 Created for Qt 5.2 and does not currently compile for version 6.
 
