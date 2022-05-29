@@ -15,6 +15,9 @@ Small api test with react.
 #### [Wordle](wordle/index.html)
 Clone of the popular wordle game.
 
+#### [Memorygame](memorygame/index.html)
+Simple memorygame. Click tiles to reveal images and find the pairs.
+
 ### C#/Xamarin
 
 #### Password manager
